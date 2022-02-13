@@ -30,7 +30,17 @@
   .my-float {
     margin-top: 16px;
   }
+
+  body {
+    background-color: #F0F0F6;
+  }
+
+  /* div {
+    border: 3px solid green;
+  } */
 </style>
+
+
 
 <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">

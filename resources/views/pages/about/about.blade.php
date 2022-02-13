@@ -1,13 +1,13 @@
 @include('layouts/layout_master')
 
 <style>
-  #wrapper_tabs{
+  #wrapper{
     padding: 20px;
   }
 </style>
 
-<div id="wrapper_tabs">
+<div id="wrapper">
 <h2>Luis Antônio da Cruz Gomes</h2>
-<p>Python, valorant e URI online judge</p>
+<p>Programador apaixonado por laravel e Alexa skills</p>
 
 </div>
